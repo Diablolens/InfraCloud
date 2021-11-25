@@ -1,3 +1,4 @@
+import yaml
 rack_struc = {
  "rack": [
       { "device": { "dev_id": "D1" ,"dev_name":"R1" , "role": "router","interfaces": 
@@ -27,7 +28,7 @@ rack_struc = {
    ]
 }
 
-import yaml
+
 yaml_data = yaml.dump(rack_struc)
 print(yaml_data)
 
