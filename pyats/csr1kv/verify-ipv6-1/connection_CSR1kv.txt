@@ -1,0 +1,6 @@
+[2022-01-10 18:37:44,228] +++ CSR1kv logfile verify-ipv6-1/connection_CSR1kv.txt +++
+[2022-01-10 18:37:44,228] +++ Unicon plugin iosxe +++
+[2022-01-10 18:37:56,241] +++ connection to spawn: ssh -l cisco -o KexAlgorithms=diffie-hellman-group14-sha1 192.168.56.101, id: 139910124469792 +++
+[2022-01-10 18:37:56,242] connection to CSR1kv
+
+
